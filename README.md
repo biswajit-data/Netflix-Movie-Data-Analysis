@@ -33,13 +33,9 @@ popularity, voting behavior, and release trends.
 ## 🔍 Key Insights
 
 1. **Drama** is the most frequent genre on Netflix, indicating a strong focus on storytelling-driven content.
-
 2. **Drama** also has the highest total number of votes among all genres, reflecting high audience engagement and viewer participation.
-
 3. The movie with the **highest popularity** is **Spider-Man: No Way Home**, with a popularity score of **5083.954**, and it belongs primarily to the **Action** genre.
-
 4. The movie with the **lowest popularity** is **The United States vs. Billie Holiday**, with a popularity score of **13.354**, and it falls under the **Music** genre.
-
 5. The year **2020** recorded the highest number of movie releases on Netflix, highlighting a significant expansion in content production during that period.
 
 ## 📊 Visualizations
@@ -53,7 +49,7 @@ popularity, voting behavior, and release trends.
 ![Yearly Release Line Diagram](images/Yearly_Release(line_diagram).png)
 
 ### 🗳️ Vote Distribution
-![Vote Distribution](images/Vote Distribution.png)
+![Vote Distribution](images/Vote_Distribution.png)
 
 ## ▶️ How to Run This Project
 1. Clone the repository:
