@@ -42,13 +42,18 @@ popularity, voting behavior, and release trends.
 
 5. The year **2020** recorded the highest number of movie releases on Netflix, highlighting a significant expansion in content production during that period.
 
+## 📊 Visualizations
 
-## 📈 Visualizations
-### Genre Distribution
-![Genre Distribution](images/genre_distribution.png)
+### 🎭 Genre Distribution
+![Genre Plot Horizontal](images/genre_plot_H.png)
+![Genre Plot Vertical](images/genre_plot_V.png)
 
-### Movies Released Per Year
-![Yearly Releases](images/yearly_releases.png)
+### 📅 Movies Released Per Year
+![Yearly Release](images/Yearly_Release.png)
+![Yearly Release Line Diagram](images/Yearly_Release(line_diagram).png)
+
+### 🗳️ Vote Distribution
+![Vote Distribution](images/Vote Distribution.png)
 
 ## ▶️ How to Run This Project
 1. Clone the repository:
