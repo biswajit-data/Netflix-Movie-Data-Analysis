@@ -30,6 +30,8 @@ popularity, voting behavior, and release trends.
 4. Which movie has the lowest popularity and what is its genre?
 5. Which year has the highest number of movie releases?
 
+<<<<<<< HEAD
+=======
 ## 🔍 Key Insights
 
 1. **Drama** is the most frequent genre on Netflix, indicating a strong focus on storytelling-driven content.
@@ -50,6 +52,10 @@ popularity, voting behavior, and release trends.
 
 ### 🗳️ Vote Distribution
 ![Vote Distribution](images/Vote_Distribution.png)
+<<<<<<< HEAD
+=======
+>>>>>>> 1a2e671 (Fixed merging issue in README)
+>>>>>>> 67a9693d535dc2f2c8f0867fbd70b86fde470460
 
 ## ▶️ How to Run This Project
 1. Clone the repository:
